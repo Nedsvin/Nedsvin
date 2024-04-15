@@ -15,6 +15,9 @@
 </div>
   
   ##
+ <div>
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?Nedsvin=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+ </div>
  
 
 <!--
